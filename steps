@@ -1,0 +1,11 @@
+////////////webpack
+1_npm init -y
+2_ npm install --save -dev webpack webpack-cli
+3_craete webpack.config.js
+4_ write your scripts
+5-install plugins & loaders ---> config
+6-runtime--->install webpac-dev-server
+////////////////////////////////gulp
+1_ install localy&global
+2_creat gulpfile.js
+
